@@ -1,0 +1,17 @@
+node_modules/
+.env
+*.yaml
+*.txt
+yarn.lock
+.wwebjs_auth
+.wwebjs_cache
+*_sessions
+
+
+dist/*
+
+*tokens
+.wwebjs*
+
+*.log
+*qr.png

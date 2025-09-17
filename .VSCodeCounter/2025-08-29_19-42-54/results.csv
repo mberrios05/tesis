@@ -1,0 +1,120 @@
+"filename", "language", "JavaScript", "JSON", "JavaScript JSX", "PostCSS", "XML", "HTML", "comment", "blank", "total"
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\index.html", "HTML", 0, 0, 0, 0, 0, 13, 0, 5, 18
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\package-lock.json", "JSON", 0, 5098, 0, 0, 0, 0, 0, 1, 5099
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\package.json", "JSON", 0, 35, 0, 0, 0, 0, 0, 1, 36
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\postcss.config.cjs", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\public\chatbot.svg", "XML", 0, 0, 0, 0, 6, 0, 1, 5, 12
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\App.jsx", "JavaScript JSX", 0, 0, 70, 0, 0, 0, 41, 21, 132
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\_temp\DemoCard.jsx", "JavaScript JSX", 0, 0, 145, 0, 0, 0, 0, 6, 151
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\_temp\FormTailwindUI.jsx", "JavaScript JSX", 0, 0, 217, 0, 0, 0, 0, 14, 231
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\_temp\sidebarMenuUI.jsx", "JavaScript JSX", 0, 0, 14, 0, 0, 0, 1, 2, 17
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\ComboboxEstudiantes.jsx", "JavaScript JSX", 0, 0, 57, 0, 0, 0, 0, 6, 63
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\ExcelUploader.jsx", "JavaScript JSX", 0, 0, 68, 0, 0, 0, 2, 14, 84
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\ModalConfirmacionDelete.jsx", "JavaScript JSX", 0, 0, 33, 0, 0, 0, 0, 5, 38
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\ModalEdit.jsx", "JavaScript JSX", 0, 0, 52, 0, 0, 0, 2, 3, 57
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\ModalRespuestaServidor.jsx", "JavaScript JSX", 0, 0, 74, 0, 0, 0, 0, 6, 80
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\ProtectedRoutes.jsx", "JavaScript JSX", 0, 0, 10, 0, 0, 0, 0, 6, 16
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\components\Sidebar.jsx", "JavaScript JSX", 0, 0, 168, 0, 0, 0, 9, 13, 190
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\academicDetailForm.js", "JavaScript", 19, 0, 0, 0, 0, 0, 2, 3, 24
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\formPadre.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\guardianDetails.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\individualDetailForm.js", "JavaScript", 45, 0, 0, 0, 0, 0, 0, 4, 49
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\materiaspermitidas.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 1, 17
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\nuevaAdmision.js", "JavaScript", 44, 0, 0, 0, 0, 0, 0, 5, 49
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\previousSchoolDetails.js", "JavaScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\consts\sidebarMain.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\data\allAsesores.json", "JSON", 0, 52, 0, 0, 0, 0, 0, 1, 53
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\data\allParents.json", "JSON", 0, 57, 0, 0, 0, 0, 0, 1, 58
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\data\allStudents.json", "JSON", 0, 243, 0, 0, 0, 0, 0, 1, 244
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\data\todoslosincidentes.json", "JSON", 0, 47, 0, 0, 0, 0, 0, 1, 48
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\data\todoslosprofesores.json", "JSON", 0, 47, 0, 0, 0, 0, 0, 1, 48
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\data\todoslosreporteProfesor.json", "JSON", 0, 22, 0, 0, 0, 0, 0, 1, 23
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\index.css", "PostCSS", 0, 0, 0, 20, 0, 0, 0, 5, 25
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\main.jsx", "JavaScript JSX", 0, 0, 9, 0, 0, 0, 0, 2, 11
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\AllFathers.jsx", "JavaScript JSX", 0, 0, 111, 0, 0, 0, 0, 9, 120
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\FormPadre.jsx", "JavaScript JSX", 0, 0, 44, 0, 0, 0, 0, 5, 49
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\InfoPadreGrid.jsx", "JavaScript JSX", 0, 0, 70, 0, 0, 0, 3, 4, 77
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\ModalBuscarEstudiante.jsx", "JavaScript JSX", 0, 0, 98, 0, 0, 0, 0, 11, 109
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\ModalEditaPadre.jsx", "JavaScript JSX", 0, 0, 21, 0, 0, 0, 0, 5, 26
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\NuevoPadre.jsx", "JavaScript JSX", 0, 0, 50, 0, 0, 0, 19, 13, 82
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\PadreContactInfo.jsx", "JavaScript JSX", 0, 0, 49, 0, 0, 0, 3, 4, 56
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\PadreDireccionInfo.jsx", "JavaScript JSX", 0, 0, 65, 0, 0, 0, 0, 10, 75
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\PadrePersonalInfo.jsx", "JavaScript JSX", 0, 0, 56, 0, 0, 0, 3, 5, 64
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\PerfilPadre.jsx", "JavaScript JSX", 0, 0, 104, 0, 0, 0, 3, 17, 124
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\TablaEstudiantesVinculos.jsx", "JavaScript JSX", 0, 0, 162, 0, 0, 0, 3, 21, 186
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllFathers\TablaHistorialIncidentes.jsx", "JavaScript JSX", 0, 0, 72, 0, 0, 0, 3, 8, 83
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllProfesores\AllProfesores.jsx", "JavaScript JSX", 0, 0, 110, 0, 0, 0, 0, 9, 119
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllProfesores\CrearProfesor.jsx", "JavaScript JSX", 0, 0, 44, 0, 0, 0, 1, 13, 58
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllProfesores\FormProfesor.jsx", "JavaScript JSX", 0, 0, 133, 0, 0, 0, 10, 11, 154
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllProfesores\ModalEditaProfesor.jsx", "JavaScript JSX", 0, 0, 17, 0, 0, 0, 0, 6, 23
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllProfesores\PerfilProfesor.jsx", "JavaScript JSX", 0, 0, 102, 0, 0, 0, 2, 21, 125
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllProfesores\TodosLosReportes.jsx", "JavaScript JSX", 0, 0, 53, 0, 0, 0, 0, 5, 58
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\AllStudents.jsx", "JavaScript JSX", 0, 0, 140, 0, 0, 0, 0, 12, 152
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\EditarModalAlumno.jsx", "JavaScript JSX", 0, 0, 48, 0, 0, 0, 0, 10, 58
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\EstudiantesAsesor.jsx", "JavaScript JSX", 0, 0, 111, 0, 0, 0, 0, 11, 122
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\InformacionEstudiante.jsx", "JavaScript JSX", 0, 0, 92, 0, 0, 0, 0, 13, 105
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\ModalObservacion.jsx", "JavaScript JSX", 0, 0, 81, 0, 0, 0, 0, 7, 88
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\Observaciones.jsx", "JavaScript JSX", 0, 0, 101, 0, 0, 0, 0, 11, 112
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\ObservacionesVistas..jsx", "JavaScript JSX", 0, 0, 42, 0, 0, 0, 0, 9, 51
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\SingleStudent.jsx", "JavaScript JSX", 0, 0, 78, 0, 0, 0, 1, 16, 95
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\StudentUpdate\StudentUpdate.jsx", "JavaScript JSX", 0, 0, 228, 0, 0, 0, 0, 12, 240
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\StudentUpdate\sc_forms\AcademicDetailsForm.jsx", "JavaScript JSX", 0, 0, 82, 0, 0, 0, 0, 8, 90
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\StudentUpdate\sc_forms\GuardianDetailsForm.jsx", "JavaScript JSX", 0, 0, 152, 0, 0, 0, 0, 9, 161
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\StudentUpdate\sc_forms\IndividualDetailsForm.jsx", "JavaScript JSX", 0, 0, 245, 0, 0, 0, 0, 16, 261
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\StudentUpdate\sc_forms\PreviousSchoolDetailsForm.jsx", "JavaScript JSX", 0, 0, 52, 0, 0, 0, 1, 5, 58
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\StudentUpdate\sc_forms\util\UtilCombobox.jsx", "JavaScript JSX", 0, 0, 86, 0, 0, 0, 0, 4, 90
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\sc_views\AcademicDetailsView.jsx", "JavaScript JSX", 0, 0, 37, 0, 0, 0, 0, 3, 40
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\sc_views\AttachmentDocumentView.jsx", "JavaScript JSX", 0, 0, 46, 0, 0, 0, 0, 3, 49
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\sc_views\GuardianDetailsView.jsx", "JavaScript JSX", 0, 0, 41, 0, 0, 0, 0, 3, 44
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\sc_views\IndividualDetailsView.jsx", "JavaScript JSX", 0, 0, 107, 0, 0, 0, 0, 3, 110
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\AllStudents\sc_views\PreviousSchoolDetailsView.jsx", "JavaScript JSX", 0, 0, 29, 0, 0, 0, 0, 3, 32
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Chatbot\Chatbot.jsx", "JavaScript JSX", 0, 0, 168, 0, 0, 0, 4, 24, 196
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Dashboard\Dashboard.jsx", "JavaScript JSX", 0, 0, 99, 0, 0, 0, 0, 7, 106
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Login\Login.jsx", "JavaScript JSX", 0, 0, 89, 0, 0, 0, 10, 14, 113
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\BulkAdmit\BulkAdmit.jsx", "JavaScript JSX", 0, 0, 18, 0, 0, 0, 0, 3, 21
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\FormEstudiante.jsx", "JavaScript JSX", 0, 0, 45, 0, 0, 0, 4, 7, 56
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\NewAdmission.jsx", "JavaScript JSX", 0, 0, 62, 0, 0, 0, 1, 8, 71
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\Sumario.jsx", "JavaScript JSX", 0, 0, 83, 0, 0, 0, 0, 4, 87
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\forms\AcademicDetailsForm.jsx", "JavaScript JSX", 0, 0, 82, 0, 0, 0, 0, 8, 90
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\forms\GuardianDetailsForm.jsx", "JavaScript JSX", 0, 0, 152, 0, 0, 0, 0, 9, 161
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\forms\IndividualDetailsForm.jsx", "JavaScript JSX", 0, 0, 228, 0, 0, 0, 0, 15, 243
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\forms\PreviousSchoolDetailsForm.jsx", "JavaScript JSX", 0, 0, 52, 0, 0, 0, 0, 4, 56
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\forms\util\UtilCombobox.jsx", "JavaScript JSX", 0, 0, 86, 0, 0, 0, 0, 4, 90
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\sc_forms\AcademicDetailsForm.jsx", "JavaScript JSX", 0, 0, 72, 0, 0, 0, 0, 11, 83
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\sc_forms\GuardianDetailsForm.jsx", "JavaScript JSX", 0, 0, 129, 0, 0, 0, 0, 14, 143
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\sc_forms\IndividualDetailsForm.jsx", "JavaScript JSX", 0, 0, 179, 0, 0, 0, 0, 17, 196
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\sc_forms\PreviousSchoolDetailsForm.jsx", "JavaScript JSX", 0, 0, 52, 0, 0, 0, 0, 5, 57
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\NewAdmission\sc_forms\util\UtilCombobox.jsx", "JavaScript JSX", 0, 0, 100, 0, 0, 0, 13, 5, 118
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Observaciones\ObservacionesForm.jsx", "JavaScript JSX", 0, 0, 182, 0, 0, 0, 1, 23, 206
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Observaciones\PageObservaciones.jsx", "JavaScript JSX", 0, 0, 95, 0, 0, 0, 0, 18, 113
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Observaciones\TablaObservacionesProfesor.jsx", "JavaScript JSX", 0, 0, 74, 0, 0, 0, 0, 2, 76
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\Profile\PerfilGeneral.jsx", "JavaScript JSX", 0, 0, 20, 0, 0, 0, 0, 5, 25
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\SolicitudesVinculacion\AllSolicitudesVinculacion.jsx", "JavaScript JSX", 0, 0, 121, 0, 0, 0, 0, 11, 132
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\TodosLosAserores\AlumnosSupervisados.jsx", "JavaScript JSX", 0, 0, 81, 0, 0, 0, 2, 6, 89
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\TodosLosAserores\EditarModalAsesor.jsx", "JavaScript JSX", 0, 0, 48, 0, 0, 0, 0, 7, 55
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\TodosLosAserores\FormAsesor.jsx", "JavaScript JSX", 0, 0, 139, 0, 0, 0, 4, 13, 156
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\TodosLosAserores\NuevoAsesor.jsx", "JavaScript JSX", 0, 0, 50, 0, 0, 0, 0, 8, 58
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\TodosLosAserores\PerfilAsesor.jsx", "JavaScript JSX", 0, 0, 99, 0, 0, 0, 3, 11, 113
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\pages\TodosLosAserores\TodosLosAsesores.jsx", "JavaScript JSX", 0, 0, 114, 0, 0, 0, 0, 9, 123
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\createAsesor.js", "JavaScript", 54, 0, 0, 0, 0, 0, 0, 5, 59
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\createGuardian.js", "JavaScript", 66, 0, 0, 0, 0, 0, 1, 8, 75
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\createProfesor.js", "JavaScript", 57, 0, 0, 0, 0, 0, 0, 5, 62
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\createStudents.js", "JavaScript", 55, 0, 0, 0, 0, 0, 0, 7, 62
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\editAsesor.js", "JavaScript", 48, 0, 0, 0, 0, 0, 0, 4, 52
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\editGuardian.js", "JavaScript", 48, 0, 0, 0, 0, 0, 0, 4, 52
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\editProfesor.js", "JavaScript", 48, 0, 0, 0, 0, 0, 0, 4, 52
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\editStudents.js", "JavaScript", 47, 0, 0, 0, 0, 0, 0, 6, 53
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\getAllAsesores.js", "JavaScript", 92, 0, 0, 0, 0, 0, 0, 7, 99
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\getAllGuardian.js", "JavaScript", 84, 0, 0, 0, 0, 0, 0, 6, 90
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\getAllProfesor.js", "JavaScript", 83, 0, 0, 0, 0, 0, 0, 7, 90
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\getAllStudents.js", "JavaScript", 78, 0, 0, 0, 0, 0, 0, 9, 87
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\observaciones.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 4, 29
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\pathBase.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\serviciosApi\vinculosGuardianes.js", "JavaScript", 179, 0, 0, 0, 0, 0, 0, 10, 189
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\utils\formatedDate.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\src\utils\userIsAdmin.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\tailwind.config.cjs", "JavaScript", 26, 0, 0, 0, 0, 0, 1, 2, 29
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\vercel.json", "JSON", 0, 3, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\vite.config.js", "JavaScript", 5, 0, 0, 0, 0, 0, 1, 2, 8
+"c:\Users\migue\OneDrive\Escritorio\SisEva2.0\tesis\school-admin-dashboard\vite.config.js.timestamp-1750177740383.mjs", "JavaScript", 6, 0, 0, 0, 0, 0, 2, 1, 9
+"Total", "-", 1176, 5604, 6795, 20, 6, 13, 157, 842, 14613
