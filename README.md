@@ -8,7 +8,6 @@ Está construido con **React** y desplegado en **Vercel**.
 ## 🛠️ Tecnologías principales
 
 - [React](https://react.dev/) - Librería para la construcción de interfaces de usuario.  
-- [Vite](https://vitejs.dev/) - Empaquetador rápido de desarrollo.  
 - [TailwindCSS](https://tailwindcss.com/) - Estilos y componentes UI.   
 
 ---
