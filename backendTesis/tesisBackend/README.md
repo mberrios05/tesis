@@ -1,5 +1,5 @@
 # ⚙️ Backend - Sistema de Seguimiento Estudiantil
-Este proyecto corresponde al **backend** del sistema de seguimiento estudiantil con **Inteligencia Artificial**, desarrollado para la **gestión de notas, observaciones y comunicación con padres de familia**.  
+Este proyecto corresponde al **backend** del sistema de seguimiento estudiantil con **Agente hibrido**, desarrollado para la **gestión de notas, observaciones y comunicación con padres de familia**.  
 Está construido con **Node.js + Express**, desplegado en **Railway**, y utiliza **MongoDB** como base de datos.
 
 ---
